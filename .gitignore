@@ -21,3 +21,5 @@
 *.md
 *.js
 *.css
+*.scss
+*.map
